@@ -1,5 +1,5 @@
-** Excel-Project**
-** Bike Sales Dashboard**
+**Excel-Project**
+**Bike Sales Dashboard**
 
 This project focuses on cleaning raw data in Excel and making pivot tables and an interactive dashboard. The goal is to make data easy to understand and support better decision-making.
 
