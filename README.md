@@ -4,27 +4,27 @@
 This project focuses on cleaning raw data in Excel and making pivot tables and an interactive dashboard. The goal is to make data easy to understand and support better decision-making.
 
 **Features:**
--Cleaned and formatted raw dataset
--Removed duplicates
--Standardized inconsistent data (e.g., Yes/No, text formats)
--Created Pivot Tables for analysis
--Built an interactive dashboard with charts and filters
+- Cleaned and formatted raw dataset
+- Removed duplicates
+- Standardized inconsistent data (e.g., Yes/No, text formats)
+- Created Pivot Tables for analysis
+- Built an interactive dashboard with charts and filters
 
 **Tools & Technologies:**
--Microsoft Excel
--Pivot Tables
--Charts (Bar, Line, Pie)
--Data Cleaning Functions (TRIM, PROPER, IF, etc.)
+- Microsoft Excel
+- Pivot Tables
+- Charts (Bar, Line, Pie)
+- Data Cleaning Functions (TRIM, PROPER, IF, etc.)
 
 **Datase Used:**
 - <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%201%20(bike%20sales).xlsx">Dataset </a>
 - <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Screenshot%20(30).png">Dashboard View</a>
 
 **Data Cleaning Steps:**
--Removed duplicates
--Fixed inconsistent values (e.g., “yes”, “Y”, “1” → “Yes”)
--Removed unwanted spaces using TRIM
--Standardized text using PROPER
+- Removed duplicates
+- Fixed inconsistent values (e.g., “yes”, “Y”, “1” → “Yes”)
+- Removed unwanted spaces using TRIM
+- Standardized text using PROPER
 
 ****Dashboard Insights:****
 
