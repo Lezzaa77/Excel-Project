@@ -17,8 +17,8 @@ This project focuses on cleaning raw data in Excel and making pivot tables and a
 - Data Cleaning Functions (TRIM, PROPER, IF, etc.)
 
 **Datase Used:**
-- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%201%20(bike%20sales).xlsx">Dataset </a>
-- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Screenshot%20(30).png">Dashboard View</a>
+- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project1%20(Bike%20Sales)/bike%20sales%20excel.xlsx">Dataset </a>
+- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project1%20(Bike%20Sales)/bike_sales.png">Dashboard View</a>
 
 **Data Cleaning Steps:**
 - Removed duplicates
