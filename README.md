@@ -32,6 +32,14 @@ The goal is to make data easy to understand and support better decision-making.
 - Used different types of charts
 - Built interactive Dashboards using slicer
 
+  ---
+  **3. Shart Marketing**
+  - Format the type of date using (text to column)
+  - Create a chart to show the share price
+  - Use formula like (index, match, today)
+  - compare the share price of different company
+  - 
+
 **File:**
 - <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%202%20(Clothing%20Stores%20Sales)/Clothing%20store%20sales%20excel.xlsx">Dataset (Project 2)</a>
 - <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%202%20(Clothing%20Stores%20Sales)/clothing_store_sales.png">Dashboard View (Project 2)</a>
