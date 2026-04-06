@@ -33,11 +33,11 @@ The goal is to make data easy to understand and support better decision-making.
 - Built interactive Dashboards using slicer
 
   ---
-  **3. Shart Marketing**
-  - Format the type of date using (text to column)
-  - Create a chart to show the share price
-  - Use formula like (index, match, today)
-  - compare the share price of different company
+**3. Shart Marketing**
+- Format the type of date using (text to column)
+- Create a chart to show the share price
+- Use formula like (index, match, today)
+- compare the share price of different company
 
 
 **File:**
