@@ -40,12 +40,6 @@ The goal is to make data easy to understand and support better decision-making.
 <img width="1138" height="471" alt="clothing-store" src="https://github.com/user-attachments/assets/22310417-c7dc-4f79-8547-58852eae003b" />
 
 ---
-**3. Shart Marketing**
-- Format the type of date using (text to column)
-- Create a chart to show the share price
-- Use formula like (index, match, today)
-- compare the share price of different company
----
 
 **Tools Used:**
 - Micorsoft Excel
