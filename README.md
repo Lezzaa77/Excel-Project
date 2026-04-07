@@ -1,6 +1,6 @@
 **Excel-Project**
 
-This respository contains a collection of my Excel projects focused on data cleaning, analysis, pivot tables and interactive dashboards. TEach project demonstrates practical use of Excel tools to extract insights from different databases. 
+This respository contains a collection of my Excel projects focused on data cleaning, analysis, pivot tables and interactive dashboards. Each project demonstrates practical use of Excel tools to extract insights from different databases. 
 The goal is to make data easy to understand and support better decision-making.
 
 ---
