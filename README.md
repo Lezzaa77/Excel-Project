@@ -51,7 +51,11 @@ Main objective of this project is to analyze retail sales data to gain actionabl
 -
 -
 
+**File:**
+- <a href="">Dataset (Project 3)</a>
+- <a href="">Dashboard View (Project 3)</a>
 
+**Preview:**
 
 -------
 **Tools Used:**
