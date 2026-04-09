@@ -40,7 +40,20 @@ The goal is to make data easy to understand and support better decision-making.
 <img width="1138" height="471" alt="clothing-store" src="https://github.com/user-attachments/assets/22310417-c7dc-4f79-8547-58852eae003b" />
 
 ---
+**3. Coffee Shop Sales**
 
+Main objective of this project is to analyze retail sales data to gain actionable insights that will enhance perfomrance of "Coffee Shop"
+
+- Use different Excel formulae ie. IFS, ISNUMBER, SEARCH
+- Extracted Day, Month and Hour form Date and Time for analysis
+- Used Power Pivot for Data Modeling
+- Created an attractive dashboard using consistent theme colors
+-
+-
+
+
+
+-------
 **Tools Used:**
 - Micorsoft Excel
 
