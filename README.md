@@ -49,13 +49,14 @@ Main objective of this project is to analyze retail sales data to gain actionabl
 - Used Power Pivot for Data Modeling
 - Created an attractive dashboard using consistent theme colors
 - Used KPI (Key Performance Indicator)
--
+- Used Power Pivot Measures
 
 **File:**
 - <a href="">Dataset (Project 3)</a>
 - <a href="">Dashboard View (Project 3)</a>
 
 **Preview:**
+<img width="1292" height="552" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/15d54e43-9e07-44f4-9f1f-b11569c0aaa0" />
 
 -------
 **Tools Used:**
