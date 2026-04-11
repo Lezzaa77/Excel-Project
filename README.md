@@ -52,8 +52,8 @@ Main objective of this project is to analyze retail sales data to gain actionabl
 - Used Power Pivot Measures
 
 **File:**
-- <a href="">Dataset (Project 3)</a>
-- <a href="">Dashboard View (Project 3)</a>
+- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%203%20(Coffee%20shop%20sales)/Coffee%20Shop%20Sales.xlsx">Dataset (Project 3)</a>
+- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%203%20(Coffee%20shop%20sales)/Coffee%20shop.png">Dashboard View (Project 3)</a>
 
 **Preview:**
 <img width="1292" height="552" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/15d54e43-9e07-44f4-9f1f-b11569c0aaa0" />
