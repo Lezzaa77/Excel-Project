@@ -48,7 +48,7 @@ Main objective of this project is to analyze retail sales data to gain actionabl
 - Extracted Day, Month and Hour form Date and Time for analysis
 - Used Power Pivot for Data Modeling
 - Created an attractive dashboard using consistent theme colors
--
+- Used KPI (Key Performance Indicator)
 -
 
 **File:**
