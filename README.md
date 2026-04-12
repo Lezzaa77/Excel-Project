@@ -33,7 +33,7 @@ The goal is to make data easy to understand and support better decision-making.
 - Built interactive Dashboards using slicer
 
 **File:**
-- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%202%20(Clothing%20Stores%20Sales)/Clothing%20store%20sales%20excel.xlsx">Dataset (Project 2)</a>
+- <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%202%20(Clothing%20Stores%20Sales)/Project%202%20(Clothing%20store%20sales).xlsx">Dataset (Project 2)</a>
 - <a href="https://github.com/Lezzaa77/Excel-Project/blob/main/Project%202%20(Clothing%20Stores%20Sales)/clothing_store_sales.png">Dashboard View (Project 2)</a>
 
 **Preview:**
